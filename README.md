@@ -1,1 +1,0 @@
-# SyncPenguin_Test_task
